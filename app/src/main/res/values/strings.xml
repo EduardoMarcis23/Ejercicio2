@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Ejercicio</string>
+    <string name="seleccion">Seleccion</string>
+    <string name="deporte">Deporte</string>
+    <string name="categoria">Categoria</string>
+    <string name="genero">Genero (M/F)</string>
+    <string name="participantes"># Participantes</string>
+    <string name="enviar">Enviar</string>
+    <string name="agrega">Agregar</string>
+    <string name="campo">Revise que los datos sean correctos</string>
+
+    <string name="fut">Futbol Soccer</string>
+    <string name="americano">Futbol Americano</string>
+    <string name="natacion">Natacion</string>
+    <string name="box">Boxeo</string>
+    <string name="tenis">Tenis</string>
+    <string name="skate">Skateboarding</string>
+    <string name="volei">Voleibol</string>
+    <string name="bmx">BMX</string>
+    <string name="rugby">Rugby</string>
+    <string name="basquet">Basquetbol</string>
+
+
+</resources>
